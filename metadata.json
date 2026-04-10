@@ -1,0 +1,5 @@
+{
+  "name": "OptionPulse AI",
+  "description": "AI-powered options trading advisor for Nifty, Bank Nifty, and Sensex. Analyzes world events and market data to suggest expiry strategies.",
+  "requestFramePermissions": []
+}
